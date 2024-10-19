@@ -1,4 +1,5 @@
 ## Hi there 👋
+currently i am learning to code in python
 
 <!--
 **gsgill7/gsgill7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
