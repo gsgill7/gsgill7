@@ -4,7 +4,7 @@ Second-year Engineering at Trinity Hall, Cambridge. Leaning toward Information E
 
 ## What I'm working on
 
-- [**prosperity-visualizer**](https://github.com/gsgill7/prosperity-visualizer) - open-source trading analytics dashboard for IMC Prosperity. Tick-level L2 order book replay, Hurst exponent, FFT, maker/taker classification, OBI correlation. Runs in-browser with a one-click backtest runner. [Live demo](https://prosperity-visualizer.vercel.app).
+- [**prosperity-visualiser**](https://github.com/gsgill7/prosperity-visualiser) - open-source trading analytics dashboard for IMC Prosperity. Tick-level L2 order book replay, Hurst exponent, FFT, maker/taker classification, OBI correlation. Runs in-browser with a one-click backtest runner. [Live demo](https://prosperity-visualizer.vercel.app).
 - **Nuclear regulatory AI** (in progress) - designing an LLM framework for safety-critical document review in nuclear engineering. Three-layer architecture: deterministic requirements database, LLM matching engine, deterministic completeness checker. Motivated by firsthand experience with opex reviews at EDF Nuclear Services. Designed to turn LLM summaries for safety crictical applications into as much of a deterministic processs as possible.
 
 ## Selected results
